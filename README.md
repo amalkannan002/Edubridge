@@ -19,7 +19,7 @@ EduBridge is a workforce development organization that has been setup with the v
 
 🔲 Group Projects
 
-🔲 Final group project
+🔲 Final group projects
 
 # Tools Used :
 
