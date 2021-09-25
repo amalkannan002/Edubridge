@@ -19,7 +19,7 @@ EduBridge is a workforce development organization that has been setup with the v
 
 🔲 Group Projects
 
-🔲 Python Core
+🔲 Final group project
 
 # Tools Used :
 
